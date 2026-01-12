@@ -1,0 +1,20 @@
+{
+  "火影": [
+    { "name": "漩渦鳴人", "url": "https://zh.wikipedia.org/wiki/%E6%BC%A9%E6%B8%A6%E9%B3%B4%E4%BA%BA" },
+    { "name": "宇智波佐助", "url": "https://zh.wikipedia.org/wiki/%E5%AE%87%E6%99%BA%E6%B3%A2%E4%BD%90%E5%8A%A9" },
+    { "name": "春野櫻", "url": "https://zh.wikipedia.org/wiki/%E6%98%A5%E9%87%8E%E6%AB%BB" },
+    { "name": "旗木卡卡西", "url": "https://zh.wikipedia.org/wiki/%E6%97%97%E6%9C%A8%E5%8D%A1%E5%8D%A1%E8%A5%BF" },
+    { "name": "我愛羅", "url": "https://zh.wikipedia.org/wiki/%E6%88%91%E6%84%9B%E7%BE%85" },
+    { "name": "日向雛田", "url": "https://zh.wikipedia.org/wiki/%E6%97%A5%E5%90%91%E9%9B%9B%E7%94%B0" }
+  ],
+  "航海王": [
+    { "name": "魯夫", "url": "https://zh.wikipedia.org/wiki/%E8%92%99%E5%A5%87%C2%B7D%C2%B7%E9%AD%AF%E5%A4%AB" },
+    { "name": "索隆", "url": "https://zh.wikipedia.org/wiki/%E7%BE%85%E7%BE%85%E4%BA%9E%C2%B7%E7%B4%A2%E9%9A%86" },
+    { "name": "娜美", "url": "https://zh.wikipedia.org/wiki/%E5%A8%9C%E7%BE%8E_(%E8%88%AA%E6%B5%B7%E7%8E%8B)" },
+    { "name": "騙人布", "url": "https://zh.wikipedia.org/wiki/%E9%A8%99%E4%BA%BA%E5%B8%83" },
+    { "name": "香吉士", "url": "https://zh.wikipedia.org/wiki/%E9%A6%99%E5%90%89%E5%A3%AB" },
+    { "name": "喬巴", "url": "https://zh.wikipedia.org/wiki/%E5%96%AC%E5%B7%B4_(%E8%88%AA%E6%B5%B7%E7%8E%8B)" },
+    { "name": "羅賓", "url": "https://zh.wikipedia.org/wiki/%E5%A6%AE%E5%8F%AF%C2%B7%E7%BE%85%E8%B3%93" },
+    { "name": "佛朗基", "url": "https://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9C%97%E5%9F%BA" }
+  ]
+}

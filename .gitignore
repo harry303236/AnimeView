@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Flask
+instance/
+.webassets-cache
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 快取檔案
+backend/data_cache.json
+
+# 圖片目錄（如果有下載的圖片）
+image/
+
+# Excel 檔案（可選，如果不想上傳資料）
+# 如果不想上傳 Excel 資料，取消下面這行的註解：
+# list.xlsx
+
+# 系統檔案
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 日誌
+*.log
+
+# 環境變數
+.env
+.env.local
+
+# Node modules（如果有的話）
+node_modules/
+package-lock.json
+
+# 測試
+.pytest_cache/
+.coverage
+htmlcov/
